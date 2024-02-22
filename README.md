@@ -4,7 +4,7 @@
 
 2. Para o mapa, pode-se usar a Api do [Google Maps](https://developers.google.com/maps/apis-by-platform?hl=pt-br), [OpenStreetMaps](https://wiki.openstreetmap.org/wiki/API) ou outra API de sua preferência;
 
-3. A aplicação deverá mostrar um mapa com os Postos Pluviométricos georeferenciados e gráficos com as informações de chuva para um determinado posto selecionado;
+3. A aplicação deverá mostrar um mapa com os Postos Pluviométricos (80.csv, 133.csv e 349.csv) georeferenciados e gráficos com as informações de chuva para um determinado posto selecionado;
 
     3.1 A aplicação deverá ter 2 (dois) seletores para escolher a data: Ano e Mês.
 
